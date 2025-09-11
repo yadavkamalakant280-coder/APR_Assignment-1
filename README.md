@@ -2,13 +2,13 @@
 ---
 **Credit Card Fraud Detection using KNN Algorithm**
 
-This project focuses on detecting fraudulent credit card transactions using the **K-Nearest Neighbors (KNN)** supervised learning algorithm. It includes **data preprocessing** and **Principal Component Analysis (PCA)** with 2 components for dimensionality reduction.
+This assignment focuses on detecting fraudulent credit card transactions using the **K-Nearest Neighbors (KNN)** supervised learning algorithm. It includes **data preprocessing** and **Principal Component Analysis (PCA)** with 2 components for dimensionality reduction.
 
 ---
 
 ## 📌 Assignment Overview
 
-Credit card fraud is a major concern in the financial industry. This project demonstrates how machine learning can be used to detect fraudulent transactions using historical data. It uses the KNN algorithm due to its simplicity and effectiveness in classification problems.
+Credit card fraud is a major concern in the financial industry. This assignment demonstrates how machine learning can be used to detect fraudulent transactions using historical data. It uses the KNN algorithm due to its simplicity and effectiveness in classification problems.
 
 ---
 
@@ -49,7 +49,6 @@ Credit card fraud is a major concern in the financial industry. This project dem
 4. **Model Evaluation**
    - Confusion Matrix
    - Accuracy, Precision, Recall, F1-Score
-   - ROC-AUC Curve
 
 5. **Visualization**
    - Plotting decision boundaries (using 2D PCA components)
