@@ -1,5 +1,3 @@
-**Assignment-1**
----
 **Credit Card Fraud Detection using KNN Algorithm**
 -
 
